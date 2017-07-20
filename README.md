@@ -10,3 +10,8 @@ package.json描述当前包，比如当前包的依赖:
 
 
 
+安装：
+npm i learngulp
+
+
+
