@@ -1,0 +1,5 @@
+dist是distribution的意思，此文件夹用于生成发布用的JS文件，src存放ES6标准的JS文件
+lib是实现当前包的功能的JS文件
+node_modules中存放当前包的依赖包
+gulpfile.js定义gulp任务
+package.json描述当前包，比如当前包的依赖
